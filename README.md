@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard analysing the **2025/26 English Premier League season** (380 matches, 20 teams), with a focus on **home vs away performance** and on relationships between match statistics such as fouls, cards, shots and goals.
 
+## Dashboard Preview
+
+![English Premier League 2025/26 Dashboard](dashboard_preview.png)
+
 ## Dataset
 
 - **File:** `EnglishPremierLeague_cleaned.csv`
